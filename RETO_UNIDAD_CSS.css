@@ -1,0 +1,43 @@
+ /*Selector universal*/
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+ .box2{
+    position:fixed;
+    top:auto
+    left: 100px;
+}
+
+ body{
+    font-family: sans-serif;
+    font-size: 1,2rem;
+ }
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+   width: 250px;
+   background-color:aquamarine;
+   margin: 20px;
+   border: solid 1px black; 
+}
+        
+
+
+nav ul li> a{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    }
+
+
+ h1{
+    left:300px;
+ }
+/*Static, posicionamiento por defecto, no admite propiedades*/
+/*Relative, admite propiedades, permanece flujo de información*/
+/*Absolute, se desprende del flujo de información*/
+/*Fixed, se fija dónde queramos, relativa al navegador?*/
+/*Sticky,entre Relative y Fixed*/
