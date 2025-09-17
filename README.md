@@ -1,3 +1,3 @@
-# Porfolio
+# Portafolio
 <!--Para dejar constancia de mi aprendizaje en competencias digitales.
-En concreto a través de Fundae.-->
+En concreto un viaje de Fundae.-->
